@@ -1,5 +1,6 @@
 
-## 🫧 <h> Caroline Ek </h> 🫧
+<div align="center">
+## 🫧 greetings! 🫧
 Full-time CSUF student graduating this Spring 2024, passionate about cybersecurity, and enjoys video games! ≧◠‿◠≦
 ## 📊 Stats
 
@@ -33,3 +34,4 @@ Full-time CSUF student graduating this Spring 2024, passionate about cybersecuri
 
 I'm always open to discussing new ideas, collaborations, or just having a friendly chat! Feel free to reach out to me via any of the links above. Looking forward to connecting with you!
 
+</div>
