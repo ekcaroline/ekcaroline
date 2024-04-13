@@ -1,5 +1,5 @@
 
-## 🫧 <h> Caroline Ek <\h> 🫧
+## 🫧 <h> Caroline Ek </h> 🫧
 Full-time CSUF student graduating this Spring 2024, passionate about cybersecurity, and enjoys video games! ≧◠‿◠≦
 ## 📊 Stats
 
