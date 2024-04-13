@@ -6,13 +6,20 @@ I'm a full-time student at CSUF and will be graduating this Spring 2024! I'm pas
 
 ## 🛠️ Skills & Tools
 
-- **Languages**
+- **Languages**:
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange?style=flat-square&logo=html5&logoColor=white)
 
-- **Tools/Platforms**: VS Code, Android Studio
-- **Other Tools/Platforms**: GNS3, Splunk, Wireshark
+- **Tools/Platforms**:
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%E2%9C%94-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-%E2%9C%94-green?style=flat-square&logo=android-studio)](https://developer.android.com/studio)
+
+- **Other Tools/Platforms**:
+[![GNS3](https://img.shields.io/badge/GNS3-%E2%9C%94-blue?style=flat-square&logo=gns3)](https://www.gns3.com/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-%E2%9C%94-green?style=flat-square&logo=wireshark)](https://www.wireshark.org/)
+[![Splunk](https://img.shields.io/badge/Splunk-%E2%9C%94-yellow?style=flat-square&logo=splunk)](https://www.splunk.com/)
+
 
 ## 📫 Connect with Me
 
