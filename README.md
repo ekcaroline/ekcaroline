@@ -9,6 +9,7 @@ I'm a full-time student at CSUF and will be graduating this Spring 2024! I'm pas
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange?style=flat-square&logo=html5&logoColor=white)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%E2%9C%94-blue?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
 
 - **IDES/Tools**:
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%E2%9C%94-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
