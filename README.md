@@ -6,8 +6,6 @@ I'm a full-time student at CSUF and will be graduating this Spring 2024! I'm pas
 ## 🛠️ Skills & Tools
 
 - **Languages**:
-### Programming Languages
-
 [![Python](https://img.shields.io/badge/Python-%E2%9C%94-blue?style=flat-square&logo=python)](https://www.python.org/) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9C%94-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%E2%9C%94-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
