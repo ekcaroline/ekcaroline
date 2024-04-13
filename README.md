@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-# Hello, I'm [Your Name]! 👋
+# 🫧 Hello, I'm Caroline! 🫧
 
 I'm a full-time student at CSUF and will be graduating this Spring 2024! I'm passionate about cybersecurity, and I love to program a variety of things!
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: Python, HTML/CSS, C++, Kotlin, JavaScript.
+- **Languages**
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange?style=flat-square&logo=html5&logoColor=white)
+
 - **Tools/Platforms**: VS Code, Android Studio
 - **Other Tools/Platforms**: GNS3, Splunk, Wireshark
 
