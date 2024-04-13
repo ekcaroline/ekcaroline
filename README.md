@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**ekcaroline/ekcaroline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm [Your Name]! 👋
 
-Here are some ideas to get you started:
+I'm a full-time student at CSUF and will be graduating this Spring 2024! I'm passionate about cybersecurity, and I love to program a variety of things!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+- **Languages**: Python, HTML/CSS, C++, Kotlin, JavaScript.
+- **Tools/Platforms**: VS Code, Android Studio
+- **Other Tools/Platforms**: GNS3, Splunk, Wireshark
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ekcaroline/)
+- [Email](ekcaroline30@gmail.com)
+
+## 💬 Let's Chat
+
+I'm always open to discussing new ideas, collaborations, or just having a friendly chat! Feel free to reach out to me via any of the links above. Looking forward to connecting with you!
