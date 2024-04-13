@@ -3,7 +3,8 @@
 
 ## 📊 Stats
 
-![Caroline's Github Stats](https://github-readme-stats.vercel.app/api?username=ekcaroline&show_icons=true&theme=transparent)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=ekcaroline&show_icons=true&theme=transparent)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekcaroline&hide_progress=true)
 
 ## 🛠️ Skills & Tools
 
