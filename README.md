@@ -1,7 +1,7 @@
 
-## 🫧 Hello, I'm Caroline! 🫧
+## 🫧 Welcome to Caroline's Github! 🫧
 
-## Stats
+## 📊 Stats
 
 ![Caroline's Github Stats](https://github-readme-stats.vercel.app/api?username=ekcaroline&show_icons=true&theme=transparent)
 
