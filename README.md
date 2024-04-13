@@ -1,6 +1,5 @@
-### Hi there 👋
 
-# 🫧 Hello, I'm Caroline! 🫧
+## 🫧 Hello, I'm Caroline! 🫧
 
 I'm a full-time student at CSUF and will be graduating this Spring 2024! I'm passionate about cybersecurity, and I love to program a variety of things!
 
