@@ -27,7 +27,7 @@ Full-time CSUF student graduating this Spring 2024, passionate about cybersecuri
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ekcaroline/)
-- [Email]: ekcaroline30@gmail.com
+- Email: ekcaroline30@gmail.com
 
 ## 💬 Let's Chat
 
