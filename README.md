@@ -1,5 +1,5 @@
 ## 🫧 greetings! 🫧
-Full-time CSUF student graduating this Spring 2024, passionate about cybersecurity, and enjoys video games! ≧◠‿◠≦
+Recent CSUF grad, passionate about cybersecurity, and enjoys video games! ≧◠‿◠≦
 
 ## 📊 Stats
 
